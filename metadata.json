@@ -1,0 +1,5 @@
+{
+  "name": "kimonobijin",
+  "description": "人物の写真をアップロードして、AIが様々な美しい着物を着せた合成画像を生成するアプリケーションです。あなたにぴったりの着物姿を見つけてみましょう。",
+  "requestFramePermissions": []
+}
